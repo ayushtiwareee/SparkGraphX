@@ -1,0 +1,10 @@
+target
+.idea
+project/target
+.bsp
+.txt
+.csv
+*/.bsp
+*/.txt
+*/.csv
+Path.scala
